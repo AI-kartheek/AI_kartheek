@@ -1,8 +1,8 @@
-# AI_kartheek
+# Kartheek
 <h1 align="center">Hey 👋, This is Kartheek</h1>
 <h3 align="center">A passionate AI/ML Innovator and Soft Ware developer from India. I enjoy challenges that push me out of my comfort zone.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AI-kartheek&label=Profile%20views&color=0e75b6&style=flat" alt="ai-kartheek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AI-kartheek&label=Profile%20views&color=0e75b6&style=flat" alt="AI-kartheek" /> </p>
 
 - 🌱 I’m currently Exploring **Artificial Intelligence in various domains.**
 
